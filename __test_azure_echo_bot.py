@@ -7,6 +7,7 @@
 import streamlit as st
 import datetime
 import random
+import os
 
 def initialize_session_state():
     """Initialize session state variables"""
@@ -87,5 +88,6 @@ if __name__ == "__main__":
 ## convert code to py file 
 #import os 
 #os.system("jupyter nbconvert --to script __test_azure_echo_bot.ipynb")
+
 
 
