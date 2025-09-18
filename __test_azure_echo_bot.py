@@ -85,6 +85,7 @@ if __name__ == "__main__":
 
 
 ## convert code to py file 
-import os 
-os.system("jupyter nbconvert --to script __test_azure_echo_bot.ipynb")
+#import os 
+#os.system("jupyter nbconvert --to script __test_azure_echo_bot.ipynb")
+
 
