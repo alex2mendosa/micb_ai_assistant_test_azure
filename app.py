@@ -9,6 +9,8 @@ import datetime
 import random
 import os
 
+print("I AM HERE________--____")
+
 def initialize_session_state():
     """Initialize session state variables"""
     if "messages" not in st.session_state:
@@ -88,6 +90,7 @@ if __name__ == "__main__":
 ## convert code to py file 
 #import os 
 #os.system("jupyter nbconvert --to script __test_azure_echo_bot.ipynb")
+
 
 
 
